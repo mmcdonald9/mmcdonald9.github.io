@@ -1,0 +1,25 @@
+Personal Greetings"
+
+Write a program that asks the user for their name and their favorite color. Then, print a personalized greeting that includes their name and says something about their favorite color. For example, if the user's name is "John" and their favorite color is "blue", the program might print "Hello, John! Blue is a great color, it's the color of the sky and the sea."
+
+"Temperature Converter"
+
+Write a program that converts temperature from Fahrenheit to Celsius. The program should ask the user to input a temperature in Fahrenheit, and it should print the equivalent temperature in Celsius. The formula to convert Fahrenheit to Celsius is (Fahrenheit - 32) * 5/9.
+
+"Restaurant Bill Calculator"
+
+Imagine you're out to eat with some friends. Write a program that helps you calculate the total bill. The program should ask for the cost of the meal, the tax rate, and the tip percentage. It should then calculate and print the total bill. Don't forget, tax and tip should be calculated based on the cost of the meal before these additions.
+
+"Grade Calculator"
+
+Write a program that asks the user for five test scores (assume the scores are out of 100). The program should calculate and print the average of the test scores and the corresponding letter grade based on the following grading scale:
+
+    90-100: A
+    80-89: B
+    70-79: C
+    60-69: D
+    Below 60: F
+
+Bonus: "The Guessing Game" (More challenging)
+
+Write a program that plays a simple number guessing game. The program should randomly choose a number between 1 and 100, and then it should ask the user to guess the number. For each guess, the program should tell the user whether their guess was too high, too low, or correct. The game should continue until the user guesses the correct number, and then it should print how many guesses the user took to guess the number correctly.
