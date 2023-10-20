@@ -1,0 +1,20 @@
+* {
+  color: #FFFFFF;
+}
+h1 {
+  color: #FF00ff;
+  font-size: 48px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+.differentText {
+  color: orange;
+}
+
+#john {
+  color: greenyellow;
+}
